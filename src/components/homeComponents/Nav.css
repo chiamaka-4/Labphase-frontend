@@ -1,0 +1,128 @@
+/* /* /* .super-container {
+  display: flex;
+  width: 40vh;
+  justify-content: space-around;
+
+  border-radius: 5px;
+}
+
+.nav_link_items {
+  text-decoration: none;
+  background-color: aliceblue;
+  height: 30px;
+
+  color: #262626;
+  font-weight: normal;
+  font-family: poppins;
+}
+
+.nav_link {
+  color: black;
+  margin-inline-end: 30px;
+
+  transition: 0.6s;
+  text-decoration: none;
+  width: 1000px;
+} */
+/* .super-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.sub-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.nav_link {
+  text-decoration: none;
+  color: #fff;
+  margin: 0 10px;
+}
+
+.nav_link:hover {
+  text-decoration: underline;
+}
+
+.nav_icon_cont {
+  display: flex;
+  align-items: center;
+}
+
+.logo_span {
+  display: inline-block;
+  height: 50px;
+  background-color: #fff; /* Set your logo background color */
+/* }
+
+.nav_link_items {
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .super-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .sub-container {
+    margin-bottom: 10px;
+  }
+ }   */
+.super-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.sub-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav_link {
+  text-decoration: none;
+  color: #fff;
+  margin: 0 10px;
+}
+
+.nav_link:hover {
+  text-decoration: underline;
+}
+
+.nav_icon_cont {
+  display: flex;
+  align-items: center;
+}
+
+.logo_span {
+  display: inline-block;
+  /* Adjust the height as needed */
+  background-color: #fff; /* Set your logo background color */
+}
+
+.nav_link_items {
+  display: flex;
+  align-items: center;
+  margin-left: auto; /* Shift items to the right */
+}
+
+@media (max-width: 768px) {
+  .super-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .sub-container {
+    margin-bottom: 10px;
+  }
+}

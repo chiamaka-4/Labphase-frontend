@@ -1,0 +1,6 @@
+.background {
+  display: block;
+  align-items: center;
+  background-color: aliceblue;
+  justify-content: space-around;
+}

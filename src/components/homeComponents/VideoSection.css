@@ -1,0 +1,9 @@
+.tips {
+  margin: 30px;
+  text-align: center;
+}
+.embedded {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}

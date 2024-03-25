@@ -1,0 +1,37 @@
+footer {
+  min-height: 40vh;
+  background-color: gray;
+}
+.cover {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 70px;
+}
+.nav_links_items {
+  display: flex;
+  flex-direction: column;
+
+  margin: 2px;
+}
+.nav_links {
+  color: white;
+}
+.quick-link {
+  display: flex;
+  color: white;
+}
+.logo {
+  color: white;
+}
+.footer_icons {
+  display: flex;
+  color: white;
+  gap: 30px;
+}
+.paragraph_1 {
+  color: white;
+}
+.contact_info {
+  color: white;
+}

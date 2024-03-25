@@ -1,0 +1,14 @@
+.paragraph {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  font-size: medium;
+  letter-spacing: 2px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  align-items: center;
+}
+.box {
+  box-sizing: border-box;
+  align-items: center;
+}

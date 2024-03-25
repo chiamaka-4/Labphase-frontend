@@ -1,0 +1,15 @@
+.container {
+  color: black;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  max-width: 1024px;
+}
+
+/* .items_container {
+  display: flex;
+  /* width: 700px; */
+/* justify-content: space-between; */
+/* height: 50px; */
+/* } */

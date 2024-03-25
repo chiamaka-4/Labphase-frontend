@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+}
+
+.divs {
+  display: flex;
+  gap: 50px;
+  margin: 80px;
+}
+.about {
+  text-align: center;
+  margin: 30px;
+}
+.my-img {
+  width: 100vh;
+}
+.welcome {
+  margin: 30px;
+}
+.sticky {
+  background-color: green;
+  min-height: 40vh;
+}
