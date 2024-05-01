@@ -1,0 +1,17 @@
+h5 a {
+  font-weight: lighter;
+  /* color: #333; */
+  text-decoration: none;
+
+  font: 22px merriweather;
+  margin-left: 150px;
+
+  text-transform: capitalize; /* Optional: Uppercase text *,
+    letter-spacing: 2px; /* Optional: Adjust letter spacing */
+}
+h5 a:hover {
+  /* border-bottom: 3px solid  */
+  background-color: #b33864;
+  color: white;
+  /* width: 40px; */
+}
